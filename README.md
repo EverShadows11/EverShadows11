@@ -1,7 +1,12 @@
 <h1 align="center"> Hello there! 👋🏻 </h1>
 
 <p align="justify">
-    I'm learning how to develop applications on multiple platforms. I'm really into Big Data and UI design.
+    🌟 My name is Laura.<br>
+    🚀 I'm currently working on traceability projects.<br>
+    🖥️ I'm passionate about mobile app development and UI design, but I'm always open to exploring new technologies.<br>
+    📚 Always learning new things.<br>
+    🌍 Currently based in Salamanca, Spain.<br>
+    📝 Sometimes I comment my code like it's a letter to the future... and the future still doesn't understand a thing.
 </p>
 
 <h2> 👤 About me </h2>
